@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  platform2headvmtoolsconcierge:
-    image: platform2headvmtoolsconcierge
-    build:
-      context: .
-      dockerfile: ./Dockerfile
